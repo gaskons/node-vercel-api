@@ -2,10 +2,10 @@
   "name": "node-vercel-api",
   "version": "1.0.0",
   "description": "Node API with Vercel",
-  "main": "index.js",
+  "main": "index.mjs",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.mjs"
   },
   "repository": {
     "type": "git",
